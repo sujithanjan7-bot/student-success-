@@ -1,0 +1,7 @@
+{
+  "name": "KPMG CampusAI: Student Analytics & Success Platform",
+  "description": "Smart Campus Analytics to predict student risk, optimize faculty interventions, and improve academic and placement outcomes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
